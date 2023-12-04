@@ -52,17 +52,4 @@ throwError("Muskil se error hogaye");
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
